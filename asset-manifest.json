@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/website-without-name/static/css/main.e6c13ad2.css",
-    "main.js": "/website-without-name/static/js/main.c2c87274.js",
+    "main.css": "/website-without-name/static/css/main.dee3cced.css",
+    "main.js": "/website-without-name/static/js/main.a14b36dd.js",
     "static/js/787.21048d91.chunk.js": "/website-without-name/static/js/787.21048d91.chunk.js",
+    "static/media/porsche.png": "/website-without-name/static/media/porsche.b4f5e39ca10904968f92.png",
+    "static/media/Inter-VariableFont_slnt_wght.ttf": "/website-without-name/static/media/Inter-VariableFont_slnt_wght.aadb65ac45347ff46699.ttf",
+    "static/media/projecttest3.ttf": "/website-without-name/static/media/projecttest3.59ed8d3ca9dce73ad390.ttf",
+    "static/media/PPEditorialNew-Regular.otf": "/website-without-name/static/media/PPEditorialNew-Regular.24324615e0712f34dfb4.otf",
     "index.html": "/website-without-name/index.html",
-    "main.e6c13ad2.css.map": "/website-without-name/static/css/main.e6c13ad2.css.map",
-    "main.c2c87274.js.map": "/website-without-name/static/js/main.c2c87274.js.map",
+    "main.dee3cced.css.map": "/website-without-name/static/css/main.dee3cced.css.map",
+    "main.a14b36dd.js.map": "/website-without-name/static/js/main.a14b36dd.js.map",
     "787.21048d91.chunk.js.map": "/website-without-name/static/js/787.21048d91.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.c2c87274.js"
+    "static/css/main.dee3cced.css",
+    "static/js/main.a14b36dd.js"
   ]
 }

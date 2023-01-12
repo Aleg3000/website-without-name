@@ -1,0 +1,26 @@
+.layoutContainer {
+    min-height: 100vh;
+    /* padding: 25px 20px; */
+    display: grid;
+    grid-template-rows: 16.8rem 1fr 34rem;
+}
+
+.layoutContainer > header {
+    padding: 25px 20px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.layoutContainer > header > nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.layoutContainer > header > nav > a {
+    font: normal 400 5rem/5.9rem 'PP Editorial New';
+}
+
+.headerLogo {
+    font: normal 600 3.6rem/4.4rem 'Inter';
+}

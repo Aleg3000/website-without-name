@@ -1,0 +1,26 @@
+.footer {
+    background-color: #000;
+    padding: 0 20px 6.4rem 20px;
+}
+
+.footerContainer {
+    padding-top: 7.8rem;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font: normal 500 2.8rem/3.4rem 'Inter';
+    color: #fff;
+    height: 100%;
+}
+
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.socialLinks {
+    display: flex;
+    gap: 28px;
+    color: #979797;
+    font: normal 400 2.4rem/1.9rem 'Inter';
+}

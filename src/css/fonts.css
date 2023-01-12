@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'PP Editorial New';
+    src: url(../assets/fonts/PPEditorialNew-Regular.otf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Inter';
+    src: url(../assets/fonts/Inter-VariableFont_slnt_wght.ttf) format('truetype');
+  }
+
+@font-face {
+    font-family: 'Monument Ext';
+    src: url(../assets/fonts/projecttest3.ttf) format('truetype');
+  }

@@ -1,12 +1,13 @@
 {
   "name": "project-d",
   "version": "0.1.0",
-  "homepage": "https://aleg3000.github.io/site-without-name",
+  "homepage": "https://aleg3000.github.io/website-without-name",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.5.0",
